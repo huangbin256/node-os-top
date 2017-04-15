@@ -1,0 +1,25 @@
+{
+  "name": "os-top",
+  "version": "0.0.2",
+  "description": "Small nix's top node.js wrapper of linux/mac top (using wmic on windows).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BriteSnow/node-top.git"
+  },
+  "keyword": [
+    "async",
+    "promisify",
+    "promise",
+    "await"
+  ],
+  "dependencies": {
+    "table-parser": "^0.1.3"
+  },
+  "devDependencies": {},
+  "author": "Jeremy Chone <jeremy.chone@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BriteSnow/node-top/issues"
+  }
+}
