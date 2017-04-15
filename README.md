@@ -5,7 +5,7 @@ Simple "nix's top" node.js wrapper (will use wmic to on windows to similate resu
 
 Install
 ```
-npm install node-top
+npm install os-top
 ```
 
 
