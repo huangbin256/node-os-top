@@ -22,7 +22,7 @@ top.fetch().then(function(data){
 
 data format
 
-```json
+```js
 {stats: 
    { mem: { used: 15000, wired: 1820, unused: 1100 },
      cpu: { user: 2.24, sys: 3.14, idle: 94.6 } },
