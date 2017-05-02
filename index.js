@@ -2,7 +2,8 @@ var osTops = require("./lib/osTops.js");
 
 var platformTops = {
 	"darwin": osTops.OsxTop,
-	"linux": osTops.LnxTop
+	"linux": osTops.LnxTop,
+	"win32": osTops.WinsTop
 };
 
 
